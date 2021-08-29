@@ -1,6 +1,6 @@
 # Task1:
 
-the main problem is there is no online adoption for dogs and cats in Jordan and we create this website to help people to adopt and help the animals and we put all this requirements.
+the main problem is there is no online adoption for dogs and cats in Jordan and there is a lot of pets that need help and Each year, over 2.7 million dogs and cats are killed each year because shelters are overcrowded and there are not enough homes for anymore.
 
 1. the home page will give the user information about what the website contains
 2. pet info will contain the information about all pets that we have
