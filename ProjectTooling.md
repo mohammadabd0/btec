@@ -74,3 +74,9 @@ Linux applications are less likely to lock up. Anyone can look at, evaluate, and
 ### Why I want to use github:
 
 GitHub is a lot older than GitLab, which means there are a lot of users that have been using it for a long time and are quite knowledgeable about it. It also means that most people are familiar with the platform. GitLab isn't difficult to use, but when it comes to community, size does matter. pointed to countless GitHub repositories from all sorts of projects, whether it be for issue reporting, readme or installations.
+
+# references
+- (https://code.visualstudio.com/docs/editor/whyvscode)
+- (https://guides.github.com/activities/hello-world/
+)
+- (https://www.volico.com/linux-vs-microsoft-windows-servers/)

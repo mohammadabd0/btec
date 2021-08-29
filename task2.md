@@ -92,3 +92,7 @@ product.
 ### Maintenance:
 
 - After the deployment of a product on the production environment, maintenance of the product i.e. if any issue comes up and needs to be fixed or any improvement is to be done is taken care by the developers.
+
+# refrances
+- https://www.forbes.com/sites/stevedenning/2016/08/13/what-is-agile/?sh=2f7fd5f226e3
+- https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
