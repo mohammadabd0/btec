@@ -92,7 +92,16 @@ product.
 ### Maintenance:
 
 - After the deployment of a product on the production environment, maintenance of the product i.e. if any issue comes up and needs to be fixed or any improvement is to be done is taken care by the developers.
+# Testing technique 
+Black box testing is a technique of software testing which examines the functionality of the software without peering into its internal structure or coding. The primary source of black-box testing is a specification of requirements that are stated by the customer. In this method, the tester selects a function and gives input value to examine its functionality, and checks whether the function is giving the expected output or not. If the function produces correct output, then it is passed in testing, otherwise failed. The test team reports the result to the development team and then tests the next function. After completing testing of all functions if there are severe problems, then it is given back to the development team for correction.
+Generic steps
 
+- The black box test is based on the specification of requirements, so it is examined in the beginning.
+- In the second step, the tester creates a positive test scenario and an adverse test scenario by selecting valid and invalid input values to check that the software is processing them correctly or incorrectly.
+- In the third step, the tester develops various test cases such as decision table, all pairs test, equivalent division, error estimation, cause-effect graph, etc.
+- The fourth phase includes the execution of all test cases.
+- In the fifth step, the tester compares the expected output against the actual output.
+- In the sixth and final step, if there is any flaw in the software, then it is cured and tested again.
 # refrances
 - https://www.forbes.com/sites/stevedenning/2016/08/13/what-is-agile/?sh=2f7fd5f226e3
 - https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
