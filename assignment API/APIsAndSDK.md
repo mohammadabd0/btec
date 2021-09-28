@@ -55,3 +55,14 @@ A Software Development Kit (SDK) is a collection of tools, libraries, documentat
 - What is an API?
 
 When developing code that interacts with other software that may speak a different language, the two programs must be able to communicate with one another. APIs have a role in this. It stands for Application Program Interface, and it does exactly what it says on the tin. It is a program that allows two application programs to speak in the same language.
+
+# reference
+
+- https://blog.axway.com/amplify-products/api-management/different-types-apis
+- https://stoplight.io/api-types/
+- https://rapidapi.com/blog/types-of-apis/
+- https://kirusablog.medium.com/top-5-benefits-of-apis-in-business-ee1046a16d0d
+- https://digital.gov/2013/03/12/benefits-of-apis/
+- https://www.ibm.com/cloud/blog/sdk-vs-api
+- http://www.differencebetween.info/difference-between-sdk-and-api
+- https://www.dynamsoft.com/blog/insights/sdk-vs-api/
